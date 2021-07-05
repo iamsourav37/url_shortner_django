@@ -1,0 +1,7 @@
+#center {
+  border: 2px solid;
+  background: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
